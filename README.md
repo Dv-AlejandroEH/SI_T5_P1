@@ -1,7 +1,7 @@
-# Práctica 1: Creación y Detección de un Keylogger en Python, Explicación AEH
+⌨️# Práctica 1: Creación y Detección de un Keylogger en Python, Explicación AEH
 En este documento explicaré como he realizado la práctica aquí explicada: https://github.com/creyaro/SI_T5_P1
 
-## ¿Cómo funciona el keylogger?
+✅## ¿Cómo funciona el keylogger?
 Explicaré mi keylogger por líneas:
   1. Importar la librería que vamos a utilizar.
      
@@ -35,7 +35,7 @@ Explicaré mi keylogger por líneas:
 
      ```
 
-## Áreas de mejora del keylogger
+🆙## Áreas de mejora del keylogger
   ### Mejoras de lectura
   Esta mejora consiste en hacer que el texto que recogemos en el archivo de texto sea más legible, ya están implementadas algunas mejoras de legibilidad, pero igualmente se podría hacer que el texto fuese más legible y no escribiera comandos todos juntos como por ejemplo los "space" o "esc".
   
@@ -44,5 +44,5 @@ Explicaré mi keylogger por líneas:
   ### Mejoras de funcionalidad
   Podría tener más funciones como por ejemplo, hacer que registre el tiempo de pulsación de las teclas, darle un nombre concreto al evento o darle un ID.
   
-## ¿Cómo usar el keylogger?
+⏺️## ¿Cómo usar el keylogger?
   El keylogger funciona de una forma muy simple, ejecutas el archivo .py y el script ya estará funcionando, este registrara todos los eventos que realicemos por teclado y los guardará en un archivo llamado keylog.txt ubicado en el escritorio.
